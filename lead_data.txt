@@ -35,7 +35,7 @@ Julie Ibrahimova, 2023-01-01, 2024-08-31
 Justin Tangjung, 2023-01-01 2023-08-31
 Andy Peng, 2023-11-01 2023-12-31
 Michael Lin, 2024-01-01, 2025-06-27
-Prista Parikh, 2025-01-01, 2025-06-27
+Prisha Parikh, 2025-01-01, 2025-06-27
 
 Business
 Charlotte Lewthwaite 2019-09-01 2020-08-31
@@ -61,7 +61,7 @@ Michelle Hu 2024-11-01 2025-06-27
 
 Software
 David Widjaja 2019-09-01 2020-08-31
-Mihir Nimgade 2020-09-01 2024-08-31
+Mihir Nimgade 2020-09-01 2023-08-31
 Christopher Chang 2021-09-01 2022-08-31
 Matthew Chow 2022-09-01 2023-08-31
 
