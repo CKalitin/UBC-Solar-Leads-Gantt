@@ -15,3 +15,6 @@ have people who just focus on deaign and just on mnaifvaturing.
 
 Brightside layup was outside in the winter.
 
+Claire and Noah were co leads. Jasmine interviewed by them.
+
+Claire joined in her first year.
